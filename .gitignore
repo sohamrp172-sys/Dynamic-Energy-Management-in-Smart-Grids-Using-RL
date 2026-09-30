@@ -1,0 +1,12 @@
+# Large dataset (download separately from Ausgrid)
+2012-2013 Solar home electricity data v2.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.DS_Store
